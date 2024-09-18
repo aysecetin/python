@@ -1,17 +1,17 @@
 # DAY 1
 
-# Given a list of non-negative integers nums, arrange them such that they form the largest number and return it.
+Given a list of non-negative integers nums, arrange them such that they form the largest number and return it.
 
-# Since the result may be very large, so you need to return a string instead of an integer.
+Since the result may be very large, so you need to return a string instead of an integer.
 
  
 
-# Example 1:
+Example 1:
 
-# Input: nums = [10,2]
-# Output: "210"
+Input: nums = [10,2]
+Output: "210"
 
-
+```py
 from functools import cmp_to_key
 
 class Solution:
@@ -45,3 +45,4 @@ if __name__ == "__main__":
     solution = Solution()  # Create an instance of the Solution class
     nums = [3, 30, 34, 5, 9]  # Input list of numbers
     print(solution.largestNumber(nums))  # Output: "9534330"
+```
