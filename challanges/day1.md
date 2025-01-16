@@ -12,8 +12,7 @@ print("Hello World!")
 ```
 
 
-## Challenge
-
+## Challenge (Beginner)
 
 - Use the code view to write a program that outputs Hello World!
 
@@ -24,3 +23,9 @@ print("Hello World!")
 print("hello world!")
 ```
 are different things (notice the capital letters in the first line).
+
+## Solution
+
+```py
+print("Hello World!")
+```
