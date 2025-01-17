@@ -1,4 +1,4 @@
-# DAY 3
+# DAY 3 
 ## String
 - A char is a single character (For example: 1, 6, %, b, p, ., T, etc.)
 
