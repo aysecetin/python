@@ -28,11 +28,11 @@ b = 13.2
 
 
 
-## Challenge
+## Challenge 🤔🤔
 
 - Write code that initialize a variable named var with the value 5.
 
-## Solution
+## Solution  🤗🤗
 
 ```py
 # Type your code below
