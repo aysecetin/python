@@ -17,7 +17,7 @@ variable_false = False
 
 
 
-## Challenge
+## Challenge
 
 Declare a variable named boolean and assign it the value True.
 
