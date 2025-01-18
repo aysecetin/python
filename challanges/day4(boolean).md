@@ -12,8 +12,8 @@ variable_false = False
 ```
 - In the above example, two variables named variable_true and variable_false are initialized, with the values True and False respectively.
 
-**Note** 
-Booleans are the building blocks for creating logic in the programs we write. We have a whole chapter about logic and conditions.
+**Note**   
+- Booleans are the building blocks for creating logic in the programs we write. We have a whole chapter about logic and conditions.
 
 
 
@@ -35,13 +35,13 @@ print(f'boolean = {boolean}')
 ## Challenge
 
 
-Write code that initializes the following variables:
+- Write code that initializes the following variables:
 
-k with the value 88  
-PI with the value 3.14  
-name with the value "bob"  
+⇨ k with the value 88    
+⇨ PI with the value 3.14     
+⇨ name with the value "bob"     
 
-**Note**
+**Note**  
 *Make sure you use the exact variables names and values. Remember, Python is case sensitive!*
 
 ## Solution
