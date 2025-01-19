@@ -1,6 +1,4 @@
-# DAY 4 
-
-## Boolean
+# Boolean ✅❌
 
 - A bool (Boolean) type has only 2 possible values: True or False.
 
