@@ -23,7 +23,7 @@ b1 = (5 > 3) and (1 == 1) # holds true
 ```
 **Explanation:** All of the operands are True, so b1 will hold True (and operation is True if both operands are True) .
 
- ------------
+ 
 
 ⇨5 is not equals 4 or five equals 2,
 ```py
@@ -31,7 +31,7 @@ b2 = not 5 == 4 or 5 == 2 # holds true
 ```
 **Explanation:** The first operand (5 != 4) is True so b2 is also True (or operation is True if either one of the operands is True)
 
- ------------
+
 
 ⇨1 is not equals 1 or false,
 
@@ -40,7 +40,6 @@ b3 = not 1 == 1 or False # holds false
 ```
 **Explanation:** All of the operands are False, so b3 will hold False (or operation).
 
- -------------
 
 ⇨not (3 bigger than 4),
 
@@ -49,7 +48,7 @@ b4 = not (3 > 4) # holds true
 ```
 **Explanation:** The operand is False, so b4 will hold True (not operation).
 
- ------------
+
 
 ⇨not (5 bigger than 10 or 5 bigger than 1),
 
