@@ -1,4 +1,4 @@
-# Logical Operators Part 1 
+# Logical Operators < > 
 
 - Logical operators are used to check combinations of comparisons that return True or False.
  
