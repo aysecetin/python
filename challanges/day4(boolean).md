@@ -11,7 +11,7 @@ variable_false = False
 - In the above example, two variables named variable_true and variable_false are initialized, with the values True and False respectively.
 
 **Note**   
-- Booleans are the building blocks for creating logic in the programs we write. We have a whole chapter about logic and conditions.
+_Booleans are the building blocks for creating logic in the programs we write. We have a whole chapter about logic and conditions.
 
 
 
