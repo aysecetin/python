@@ -110,7 +110,7 @@ _Check the test cases to see all the inputs and the expected outputs_
 
 ## Solution 
 
-```
+```py
 wind = int(input()) # Don't change this line
 status = "unset"
 # Type your code below
