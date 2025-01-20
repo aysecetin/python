@@ -26,3 +26,28 @@ if condition:
     code
     code
 ```
+
+
+If the condition is True, we will enter the code block inside the if (The indented code)
+
+## Challenge
+
+You are given a code.
+The variables a and b have missing values, fill them so that the code inside the if statement will be executed!
+
+**Bonus: try to find more than one solution!**
+
+## Solution
+
+```py
+a = 12
+b = 11
+
+# Don't change below this line
+c = 0
+if a >= b and not b < 10:
+    c = 2
+
+c += 1
+print(f"c = {c}")
+```
