@@ -108,7 +108,10 @@ Your task is to initialize variable status based on the conditions:
 "Storm" otherwise
 _Check the test cases to see all the inputs and the expected outputs_
 
-```wind = int(input()) # Don't change this line
+## Solution 
+
+```
+wind = int(input()) # Don't change this line
 status = "unset"
 # Type your code below
 
