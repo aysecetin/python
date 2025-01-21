@@ -35,3 +35,17 @@ print(f"His age is: {age}")
 - This prints "His age is: 10"
 
 **Before the quotation marks "" we add the letter f and inside the string wherever we put parenthesis {} it will insert the value of what is written inside it.**
+
+## Challenge
+
+- You are given a code that stores a random string as input to a variable named rnd.
+
+Print to the console "The input is: " and the random string that is inside the variable rnd.
+
+## Solution 
+
+```py
+rnd = input() # Don't change this line
+
+print(f"The input is: {rnd}")
+```
