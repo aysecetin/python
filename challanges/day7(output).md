@@ -42,4 +42,11 @@ print(f"His age is: {age}")
 
 Print to the console "The input is: " and the random string that is inside the variable rnd.
 
+## Solution 
+
+```py
+rnd = input() # Don't change this line
+
+print(f"The input is: {rnd}")
+```
 
