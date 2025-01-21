@@ -14,9 +14,7 @@ The above example prints "Hello" to screen.
 
 ⇨ Recall that you must enclose what you want to print with "" or with '', it is a string inside the print().
 
-## Output With Variables 
 
-⇨ As of now we learned how to print simple strings, but sometimes we need to insert variables values into the string.
 
 ***For example:***
 
