@@ -11,20 +11,3 @@ This will store the input in the variable var.
 ⇨ The input is always of type string. For example, if the input is 56 then var will hold the string "56".
 
 
-## Challenge 🤓
-
-Write a program that get input from the user (their name), and then outputs Hello,  followed by the user's inputted name.
-
-For example, if the user inputs Bob, the expected output is Hello, Bob.
-
-You will need to:
-
-Use input() to get input from the user.
-Store the input in a variable.
-Print Hello,  and the stored variable in the end.
-
-## Solution
-```py
-name = input()
-print(f"Hello, {name}")
-```
