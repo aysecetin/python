@@ -1,4 +1,4 @@
-# Input
+# *Input*
 
 ⇨ As of now we stored values that we thought about in variables. Programs usually don't work this way. We receive values from an outer source, a user for example.
 
