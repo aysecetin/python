@@ -23,3 +23,8 @@ Use input() to get input from the user.
 Store the input in a variable.
 Print Hello,  and the stored variable in the end.
 
+## Solution
+```py
+name = input()
+print(f"Hello, {name}")
+```
