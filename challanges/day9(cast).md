@@ -1,4 +1,4 @@
-Cast
+# Cast
 
 To convert the input to a different type we need to cast.
 
