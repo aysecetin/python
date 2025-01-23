@@ -37,20 +37,21 @@ Adding two numbers will result of:
 5 + 5 = 10
 
 
-Quiz
+## Challenge
 
-3 Questions
+⇨ To receive multiple inputs from the user write them multiple times:
 
-Done
-
-
-Challenge
-
-Beginner
-To receive multiple inputs from the user write them multiple times:
-
+```py
 var1 = input()
 var2 = input()
+```
 Every test case contains two inputs.
 
 Store the inputs in two variables, cast them to float and print the multiplication of the two.
+
+## Solution
+```py
+var1 = float(input())
+var2 = float(input())
+print(var1*var2)
+```
