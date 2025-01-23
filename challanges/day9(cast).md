@@ -19,6 +19,7 @@ var = int(input())
 ⇨ Here is a table that shows how to cast to different types:
 
 Cast	  | Explanation
+--------|---------------------------
 int() 	|Convert to a whole number
 float()	|Convert to a real number
 bool()	|Convert to a boolean
