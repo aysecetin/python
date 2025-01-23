@@ -23,7 +23,9 @@ Cast	  | Explanation
 int() 	|Convert to a whole number
 float()	|Convert to a real number
 bool()	|Convert to a boolean
-str() 	|Convert to a string
+str() 	|Convert to a string  
+
+  
 It is important to use the right type because it can affect the output.
 
 Adding two string will result of:
