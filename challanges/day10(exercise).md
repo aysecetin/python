@@ -33,3 +33,10 @@ print(f"{years_till_120} years till 120")
 ## Solution
 
 ```py
+num = int(input())
+
+if num == 1:
+  print("T")
+elif num == 0:
+  print("F")
+
