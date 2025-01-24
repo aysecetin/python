@@ -29,3 +29,5 @@ print(f"{years_till_120} years till 120")
 ⇨ The program will output "T" if the input is 1 and "F" otherwise.
 
 ⇨ Remember! you can cast the input to number using int()
+
+## Solution
