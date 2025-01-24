@@ -10,7 +10,7 @@
 
 ⇨ For example, for input 25, the expected output is "95 years till 120".
 
-## Soolution 
+## Solution 
 ```py
 # Get user input
 age = int(input())
