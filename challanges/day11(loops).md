@@ -96,7 +96,7 @@ print(power_of_two)
 
 - Print the first number that is smaller than 3.5.
 
-``py
+```py
 # Get input from the user
 number = float(input())
 
@@ -106,6 +106,4 @@ while number >= 3.5:
 
 # Print the first number smaller than 3.5
 print(number)
-
-
-
+```
