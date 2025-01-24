@@ -40,3 +40,22 @@ for i in range(1, 101):
 print(sum_numbers)
 ```
 - This will first loop through all numbers between 1 to 101 (not including 101) and sum all of them, Then it will print the sum_numbers variable
+
+## Challange 
+
+- Write a program that prints "Hello Coddy: " and the i value from 3 to 27 (including, 25 times in total), do it using a for loop.
+
+- It will look like this:
+```py
+Hello Coddy: 3
+Hello Coddy: 4
+...
+Hello Coddy: 27
+```
+
+## Solution
+
+```py
+for i in range (3,28)
+    print("Hello Coddy:",i)
+```
