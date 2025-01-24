@@ -31,3 +31,5 @@ print(f"{years_till_120} years till 120")
 ⇨ Remember! you can cast the input to number using int()
 
 ## Solution
+
+```py
