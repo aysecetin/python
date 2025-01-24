@@ -1,17 +1,21 @@
-For Loop
+# For Loop
 
-Sometimes when programming it's necessary to perform same or almost the same operation a couple of times.
+- Sometimes when programming it's necessary to perform same or almost the same operation a couple of times.
 
-To prevent writing the same thing over and over again we can use Loops.
+- To prevent writing the same thing over and over again we can use Loops.
 
-The for loop has the following syntax
+- The for loop has the following syntax
 
+```py
 for i in range(start, end):
     code
-The range(start, end) determines what is the start value and what is the end value. The i will receive all values from start to end (not including end) sequentially. For example:
+```
+- The range(start, end) determines what is the start value and what is the end value. The i will receive all values from start to end (not including end) sequentially. For example:
 
+```py
 for i in range(0, 5):
     print(i)
+```
 It will execute the print statement 5 times:
 
 0
