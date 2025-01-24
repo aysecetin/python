@@ -16,23 +16,27 @@ for i in range(start, end):
 for i in range(0, 5):
     print(i)
 ```
-It will execute the print statement 5 times:
-
+- It will execute the print statement 5 times:
+```py
 0
 1
 2
 3
 4
-We can simplify the range(0, 5) to range(5):
+```
+- We can simplify the range(0, 5) to range(5):
 
+```py
 for i in range(5):
     print(i)
- 
+ ```
 
-Loops have many use cases, For example let's sum all the number from 1 to 100:
+- Loops have many use cases, For example let's sum all the number from 1 to 100:
 
+```py
 sum_numbers = 0
 for i in range(1, 101):
     sum_numbers += i
 print(sum_numbers)
-This will first loop through all numbers between 1 to 101 (not including 101) and sum all of them, Then it will print the sum_numbers variable
+```
+- This will first loop through all numbers between 1 to 101 (not including 101) and sum all of them, Then it will print the sum_numbers variable
