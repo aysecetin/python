@@ -65,3 +65,16 @@ for i in range(2, 21,):
         continue
     print(i)
 ```
+**Output**
+```
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+```
