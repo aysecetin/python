@@ -37,25 +37,25 @@ for i in range(1, 11):
  
 # Continue
 
-The continue statement stops the current iteration and continues to the next iteration. For example:
+- The continue statement stops the current iteration and continues to the next iteration. For example:
 
 for i in range(3, 9):
     if i == 5:
         continue
     print(i)
 The loop will iterate through all of the numbers. when it will reaches i=5 it will skip that iteration and continue to the next one. The output is:
-
+```py
 3
 4
 6
 7
 8
-Notice, number 5 is not in the output.
+```
+- Notice, number 5 is not in the output.
 
-Challenge
+## Challenge
 
-Beginner
-You are given a code which prints the numbers from 1 to 20 (including).
+- You are given a code which prints the numbers from 1 to 20 (including).
 
-Your task is to add if and continue statements so that only the even numbers will be printed (2, 4, 6, ...). 
+- Your task is to add if and continue statements so that only the even numbers will be printed (2, 4, 6, ...). 
  
