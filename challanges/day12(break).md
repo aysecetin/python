@@ -93,8 +93,22 @@ for i in range(2, 21,):
 ○ Factorial of 2: 2 = 1 * 2
 
 
-##Challenge
+## Challenge
 
 - Write a program that receives one input, an integer, calculates the factorial of the input and prints it.
 
 - For example, for input 5, the output should be 120 because 1 * 2 * 3 * 4  * 5 = 120.
+
+## Solution 
+
+```py
+# Factorial Calculation
+num = 5  # Example number
+res = 1  # Initialize the result
+
+for i in range(1, num + 1):
+    res *= i  # Multiply res by i in each iteration
+
+# Print the result after the loop
+print(res)
+```
