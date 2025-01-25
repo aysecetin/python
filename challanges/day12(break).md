@@ -103,7 +103,7 @@ for i in range(2, 21,):
 
 ```py
 # Factorial Calculation
-num = 5  # Example number
+num = int(input())  # Example number
 res = 1  # Initialize the result
 
 for i in range(1, num + 1):
