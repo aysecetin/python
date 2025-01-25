@@ -58,4 +58,10 @@ The loop will iterate through all of the numbers. when it will reaches i=5 it wi
 - You are given a code which prints the numbers from 1 to 20 (including).
 
 - Your task is to add if and continue statements so that only the even numbers will be printed (2, 4, 6, ...). 
- 
+
+```py
+for i in range(2, 21,):
+    if i % 2 == 1:
+        continue
+    print(i)
+```
