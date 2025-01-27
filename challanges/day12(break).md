@@ -111,4 +111,5 @@ for i in range(1, num + 1):
 
 # Print the result after the loop
 print(res)
+
 ```
