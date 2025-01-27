@@ -1,18 +1,22 @@
-Declare a Function
+# Declare a Function
 
-A function is a sequence of code that has a name. The purpose of a function is to reuse a piece of code multiple times.
+- A function is a sequence of code that has a name. The purpose of a function is to reuse a piece of code multiple times.
 
-For example, take a look at this code:
+**For example,** take a look at this code:
 
+```py
 print("Welcome to Coddy")
 print("New session...")
 print("Welcome to Coddy")
 print("Another session...")
 print("Welcome to Coddy")
-We use the same code print("Welcome to Coddy") over and over again. Another issue with this code is that if we wanted to change the message: Welcome to Coddy to something different, like "Welcome aboard" it would have to change 3 different lines of code. To solve this issue, we will use functions.
+```
+
+- We use the same code print("Welcome to Coddy") over and over again. Another issue with this code is that if we wanted to change the message: Welcome to Coddy to something different, like "Welcome aboard" it would have to change 3 different lines of code. To solve this issue, we will use functions.
 
 To declare a function, we use the following syntax:
 
+```
 def function_name():
     code
 For our example, we will create a function named greet and it will look like this:
