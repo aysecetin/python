@@ -16,7 +16,7 @@ print("Welcome to Coddy")
 
 - To declare a function, we use the following syntax:
 
-```
+```py
 def function_name():
     code
 For our example, we will create a function named greet and it will look like this:
@@ -27,7 +27,7 @@ def greet():
 
 
 - To use/call/execute the function, we write greet():
-```
+```py
 
 greet()
 print("New session...")
