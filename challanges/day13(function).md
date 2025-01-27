@@ -23,13 +23,18 @@ For our example, we will create a function named greet and it will look like thi
 
 def greet():
     print("Welcome to Coddy")
-To use/call/execute the function, we write greet():
+```
+
+
+- To use/call/execute the function, we write greet():
+```
 
 greet()
 print("New session...")
 greet()
 print("Another session...")
 greet()
+```
 This will result in the same output as above.
 
 Important! The function code must come before it's call/execution
