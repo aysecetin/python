@@ -49,4 +49,17 @@ Important! The function code must come before it's call/execution
 ***Note!** In your code, write the function before it's call/execution statements.*
 
 ## Solution
+```py
+# Function to calculate and print the sum of numbers from 1 to 10000
+def calculate_sum():
+    total = sum(range(1, 10001))  # Sum of numbers from 1 to 10000
+    print(total)
 
+# Get the number of times to execute the function
+execution_count = int(input())
+
+# Execute the function the specified number of times
+for _ in range(execution_count):
+    calculate_sum()
+
+```
