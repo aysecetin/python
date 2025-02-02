@@ -1,9 +1,11 @@
-Arguments
+# Arguments
 
-An argument in a function is a value that you pass into the function when you call it. To add arguments to a function we write them inside the parenthesis ():
+- An argument in a function is a value that you pass into the function when you call it. To add arguments to a function we write them inside the parenthesis ():
 
+```py
 def function_name(arg1, arg2, ...):
     code
+```
 We can name the arguments as we want and we can write as many arguments as we need.
 
 To call a function and pass arguments to it we write:
