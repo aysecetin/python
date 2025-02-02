@@ -6,15 +6,18 @@
 def function_name(arg1, arg2, ...):
     code
 ```
-We can name the arguments as we want and we can write as many arguments as we need.
+- We can name the arguments as we want and we can write as many arguments as we need.
 
-To call a function and pass arguments to it we write:
+- To call a function and pass arguments to it we write:
 
+```py
 function_name(value1, value2, value3, ...)
-Passing too many arguments to a function that is expecting less arguments will cause the program to fail
+```
+- Passing too many arguments to a function that is expecting less arguments will cause the program to fail
 
-Example of usage:
+**Example of usage:**
 
+```py
 def is_even(number):
     if number % 2 == 0:
         print(f"{number} is even")
@@ -25,6 +28,8 @@ for i in range(15, 34):
     is_even(i)
 for i in range(153, 219):
     is_even(i)
-Here we have a function called is_even that accepts one argument called number and print if the number is even or odd. Then we call the function twice: one time for all the numbers between 15 and 34, Second time for all numbers between 153 and 219.
+```
+
+- Here we have a function called is_even that accepts one argument called number and print if the number is even or odd. Then we call the function twice: one time for all the numbers between 15 and 34, Second time for all numbers between 153 and 219.
 
 
