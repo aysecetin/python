@@ -33,3 +33,13 @@ for i in range(153, 219):
 - Here we have a function called is_even that accepts one argument called number and print if the number is even or odd. Then we call the function twice: one time for all the numbers between 15 and 34, Second time for all numbers between 153 and 219.
 
 
+## Challenge
+
+- Write a program that gets two inputs, numbers. The input numbers are the arguments of the below function. 
+
+Create a function that gets two arguments, calculates the product of them and prints it, name the function however you like.
+
+Call the function with the input numbers.
+
+***Note! In your code, write the function before it's call/execution statements.***
+
